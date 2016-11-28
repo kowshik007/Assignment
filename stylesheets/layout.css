@@ -1,6 +1,6 @@
 *{
 	margin: 0;
-	padding: 0;
+	padding: 10px;
 	box-sizing: border-box;
 }
 body{
@@ -13,7 +13,7 @@ body{
 	overflow: auto;
 	text-align: justify;
 	float: left;
-	padding: 10px;
+	padding: 30px;
 	background-color: #FFFFFF;
 	border-style: solid;
 }
